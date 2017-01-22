@@ -1,2 +1,2 @@
 # GoalBook
-iOS Project for Making Goals
+iOS Project for Making, keeping, and adjusting Goals.
