@@ -18,7 +18,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     @IBAction func setDefaultTextField(sender: AnyObject) {
         
         //Changes the label after the button is pressed
-        todaysGoalsLabel.text = "this is awesome!!!!"
+        todaysGoalsLabel.text = " New Goal Is Set!"
     }
     
     override func viewDidLoad() {
